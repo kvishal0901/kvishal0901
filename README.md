@@ -1,10 +1,12 @@
 ## Hi there 👋
-This is Vishal Kumar
+
 - I'm a Java backend developer.
 - Currently working on Artificial Intelligence.
 - Learning SpringAI and various tools and features of spring boot to modify my backend project.
 - On the other side, learning python to get the exposure of wide AI features and to enchance my productivity in AI.
-  ### TECH STACKS
+
+
+   ### TECH STACKS
   - Java
   - Spring Boot
   - SQL
